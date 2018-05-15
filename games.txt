@@ -1,2 +1,6 @@
 basketball
+<<<<<<< HEAD
 baseball
+=======
+cricket
+>>>>>>> first_branch
